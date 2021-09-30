@@ -12,6 +12,7 @@ package studentlistmaster;
 
 /*
 @author Sandy Su September 2021 
+changes done for fetch demo
 */
 public class Student {
     
