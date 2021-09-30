@@ -9,6 +9,10 @@ package studentlistmaster;
  *
  * @author Ronak
  */
+
+/*
+@author Sandy Su September 2021 
+*/
 public class Student {
     
     private String studentId;
